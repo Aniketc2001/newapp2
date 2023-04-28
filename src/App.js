@@ -1,7 +1,7 @@
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import PieChart from './components/Dashboard';
+import PieChart from './Charts/Dashboard';
 
 // import Navbar from './components/Navbar';
 // import LineDetailsTab from './components/LineDetailsTab';
