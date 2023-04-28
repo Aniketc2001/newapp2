@@ -1,7 +1,7 @@
 {
   "Score": [
-    { "Box no": 1, "ctr": 50,"Caption": "Result", "icons": "bi bi-graph-up" },
-    {"Box no": 2,"ctr": 100,"Caption": "Analytics","icons": "bi bi-graph-up"},
+    { "Box no": 1, "ctr": 50,"Caption": "Result", "icon": "bi bi-graph-up" },
+    {"Box no": 2,"ctr": 100,"Caption": "Analytics","icon": "bi bi-graph-up"},
     {"Box no": 3,"ctr": 150,"Caption": "","icons": "bi bi-graph-up"}
   ],
 
