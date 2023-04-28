@@ -1,0 +1,28 @@
+{
+  "Score": [
+    { "Box no": 1, "ctr": 50,"Caption": "Result", "icons": "bi bi-graph-up" },
+    {"Box no": 2,"ctr": 100,"Caption": "Analytics","icons": "bi bi-graph-up"},
+    {"Box no": 3,"ctr": 150,"Caption": "","icons": "bi bi-graph-up"}
+  ],
+
+  "data1":[
+        { "label": "Label 1", "value": 25 },
+        { "label": "Label 2", "value": 35 },
+        { "label": "Label 3", "value": 20 },
+        { "label": "Label 4", "value": 10 },
+        { "label": "Label 5", "value": 10 }
+    
+  ],
+  "data2":[
+    { "label": "Label 1", "value": 25 },
+    { "label": "Label 2", "value": 15 },
+    { "label": "Label 3", "value": 20 },
+    { "label": "Label 4", "value": 25 },
+    { "label": "Label 5", "value": 15 }
+
+  ],
+  "data3":[
+    {}
+  ]
+
+}
