@@ -1,6 +1,8 @@
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import PieChart from './components/Dashboard';
+
 // import Navbar from './components/Navbar';
 // import LineDetailsTab from './components/LineDetailsTab';
 // import Accessllr from './components/Accessllr';
@@ -9,7 +11,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <></>
+    <>
+    <PieChart/>
+    </>
     
   );
 }
